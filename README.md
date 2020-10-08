@@ -19,6 +19,7 @@
     <tr>
 	    <th><strong>Version</strong></th>
 	    <th><strong>Features</strong></th>
+        <th><strong>Release Notes</strong></th>
         <th><strong>Release Date</strong></th>
     </tr>
     <tr>
@@ -30,7 +31,8 @@
             Sales Order [v0.1.1](https://cloudinformationmodel.org/salesorder.html)</br>
             Shipment [v0.1.1](https://cloudinformationmodel.org/shipment.html)</br>
         </td>
-        <td>23-Feb-2020</td>
+        <td>[release_notes_v0_1_1]()</td>
+        <td>February 23, 2020</td>
     </tr>
         <tr>
 	    <td><strong>CIM v1.0</strong></td>
