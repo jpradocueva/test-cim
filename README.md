@@ -24,24 +24,19 @@
     </tr>
     <tr>
 	    <td><strong>CIM v0.1.1</strong></td>
-	    <td>Party [v0.1.1](https://cloudinformationmodel.org/party.html)</br>
-            Payment [v0.1.1](https://cloudinformationmodel.org/payment.html)</br>
-            Payment Method [v0.1.1](https://cloudinformationmodel.org/paymentmethod.html)</br>
-            Product [v0.1.1](https://cloudinformationmodel.org/product.html)</br>
-            Sales Order [v0.1.1](https://cloudinformationmodel.org/salesorder.html)</br>
-            Shipment [v0.1.1](https://cloudinformationmodel.org/shipment.html)</br>
+	    <td>Party <a href="https://cloudinformationmodel.org/v0_1_1/party.html">v0.1.1</a></br>
+      <a Payment href="https://cloudinformationmodel.org/v0_1_1/payment.html">v0.1.1</a></br>
+      <a Payment Method href="https://cloudinformationmodel.org/v0_1_1/paymentmethod.html">v0.1.1</a></br>
+      <a Product href="https://cloudinformationmodel.org/v0_1_1/product.html">v0.1.1</a></br>
+      <a Sales Order href="https://cloudinformationmodel.org/v0_1_1/salesorder.html">v0.1.1</a></br>
+      <a Shipment href="https://cloudinformationmodel.org/v0_1_1/shipment.html">v0.1.1</a></br>
         </td>
-        <td>[release_notes](/release_notes.md#v0_1_1) v0_1_1</td>
+        <td><a href="https://cloudinformationmodel.org/v0_1_1/release_notes.md#v0_1_1">release_notes</a>v0_1_1</td>
         <td>February 23, 2020</td>
     </tr>
         <tr>
 	    <td><strong>CIM v1.0</strong></td>
-	    <td>Party [v1.0]()</br>
-            Payment [v1.0]()</br>
-            Payment Method [v1.0]()</br>
-            Product [v1.0]()</br>
-            Sales Order [v1.0]()</br>
-            Shipment [v1.0]()</br>
+	    <td>
             Case [v1.0]()</br>
         </td>
         <td>TBC</td>
@@ -50,7 +45,7 @@
 </table>
 
 ### Versioning
-CIM follows the convention described in [semantic versioning](https://semver.org/).
+CIM follows the convention described in <a href="https://semver.org/"> semantic versioning</a>.
 
 <table>
   <caption>CIM Versioning</caption>
