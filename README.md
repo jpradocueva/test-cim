@@ -31,7 +31,7 @@
             Sales Order [v0.1.1](https://cloudinformationmodel.org/salesorder.html)</br>
             Shipment [v0.1.1](https://cloudinformationmodel.org/shipment.html)</br>
         </td>
-        <td>[release_notes]() v0_1_1</td>
+        <td>[release_notes](/release_notes.md#v0_1_1) v0_1_1</td>
         <td>February 23, 2020</td>
     </tr>
         <tr>
