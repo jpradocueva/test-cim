@@ -57,14 +57,16 @@ CIM follows the convention described in <a href="https://semver.org/"> semantic 
   <caption>CIM Versioning</caption>
   <tbody>
     <tr>
-	    <th><strong>Major</strong></th>
-	    <th><strong>Minor</strong></th>
-        <th><strong>Patch</strong></th>
+	    <th><strong>Version</strong></th>
+	    <th><strong>Description</strong></th>
     </tr>
     <tr>
-	    <td>Major version contains incompatible changes.</td>
-	    <td>Minor version adds functionality in a backwards-compatible manner.</td>
-        <td>Patch version adds backwards-compatible bug fixes.</td>
+	    <td><strong>Major</strong></td>
+      <td>It contains incompatible changes.</td>
+	    <td><strong>Minor</strong></td>
+      <td>It introduces functionality in a backwards-compatible manner.</td>
+      <td><strong>Patch</strong></td> 
+      <td>It adds backwards-compatible bug fixes.</td>
     </tr>
   </tbody>
 </table>
