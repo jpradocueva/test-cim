@@ -63,8 +63,12 @@ CIM follows the convention described in <a href="https://semver.org/"> semantic 
     <tr>
 	    <td><strong>Major</strong></td>
       <td>It contains incompatible changes.</td>
+    </tr>
+    <tr>
 	    <td><strong>Minor</strong></td>
       <td>It introduces functionality in a backwards-compatible manner.</td>
+    </tr>
+    <tr>
       <td><strong>Patch</strong></td> 
       <td>It adds backwards-compatible bug fixes.</td>
     </tr>
